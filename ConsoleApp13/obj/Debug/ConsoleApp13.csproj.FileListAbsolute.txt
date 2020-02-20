@@ -1,0 +1,7 @@
+d:\users\admin\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csprojResolveAssemblyReference.cache
+d:\users\admin\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.CoreCompileInputs.cache
+d:\users\admin\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe.config
+d:\users\admin\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe
+d:\users\admin\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.pdb
+d:\users\admin\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.exe
+d:\users\admin\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.pdb
